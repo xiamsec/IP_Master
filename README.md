@@ -1,6 +1,6 @@
-# 🌐 NetMaster Pro
+# 🌐 IP_Master
 
-NetMaster Pro is a simple and fast subnet calculator designed for beginners and NOC engineers. It helps you quickly analyze IP addresses and CIDR values with a clean and responsive interface.
+IP_Master is a simple and fast subnet calculator designed for beginners and NOC engineers. It helps you quickly analyze IP addresses and CIDR values with a clean and responsive interface.
 
 ## 🚀 Features
 
